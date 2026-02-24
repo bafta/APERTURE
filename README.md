@@ -25,7 +25,6 @@ The repository includes:
 
 * The technical approach document
 * The independent review report
-* Any associated responses or clarifications
 
 This review provides critical assessment of the cryptographic design and its suitability for the intended use case.
 
