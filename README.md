@@ -15,6 +15,10 @@ The work forms part of Project *Aperture*, an R&D initiative exploring how sensi
 
 The document outlines the architectural model, threat considerations, and the rationale for selecting an additive homomorphic scheme.
 
+Further to defining the architecture here, a working prototype has been built which uses Javascript to Paillier encrypt user responses to a simple diversity questionnaire, which are then stored and aggregated on the server in PHP. The code for thie protorype implementation can be found here:
+* [PHP wrapper for exsiting RUST Paillier library](https://github.com/bafta/APERTURE_paillier-php)
+* [Prototype for questionnaire and reporting UI](https://github.com/bafta/APERTURE_poc-ui)
+
 ---
 
 ## External Security Review
