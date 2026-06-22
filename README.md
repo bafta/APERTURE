@@ -1,4 +1,4 @@
-# APERTURE -  Paillier Encryption Prototype
+# APERTURE -  Paillier Encryption Approach
 
 Advancing Participation, Equity, Representation, and Trust in  Unified Research for EDI
 
